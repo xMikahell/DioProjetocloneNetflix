@@ -9,7 +9,7 @@
 @media screen and (max-width: 1000px){
 
     .descricao{
-        width: 50%;
+        width: 100%; /* não gostava do width  que era 50%*/
     }
 
     .botao{
@@ -17,7 +17,7 @@
     }
     
     .botao2{
-        padding-top: 15px;
+        padding-top: 13px;
         margin: 5px;
     
     }
