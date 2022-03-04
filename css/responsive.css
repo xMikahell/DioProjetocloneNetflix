@@ -43,11 +43,10 @@
     }
 
     .botao2{
-        padding-top: 15px;
+        padding-bottom: 15px; /* corrigido o responsivo dos botões */
         width: 100%;
         height: 100%;
     }
     
-
 
 }
